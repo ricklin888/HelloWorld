@@ -1,3 +1,4 @@
 even monkeys know the "GIT"
 add modify bookmark
 try conflict 1
+try conflict 2
